@@ -1,0 +1,3 @@
+# forget-it
+
+The novelist Jorge Luis Borges was prescient in his understanding of the importance of forgetting. In the short story Funes the Memorious, the protagonist Funes has an accident and subsequently develops infinite memory. Every moment of his life is now recorded perfectly. Unfortunately, this newfound ability is an impediment, not a superpower. Funes is unable to abstract from experience since every moment of his life and every object he encounters is infinitely unique. Thought requires storing the essential and discarding the unessential. Funes was incapable of thought as a result of his “perfect” memory...
